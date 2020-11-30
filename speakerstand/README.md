@@ -29,7 +29,7 @@ The whole construction (top- & buttom- plates and the three stands) are made of 
 
 **TBD: More information after evaluation...**
 
-Build
+Plan
 --------
 
 ### Bottom and Top Panels
@@ -54,6 +54,11 @@ Because degrees and millimeters don't always play together nicely, the length is
 when mounted (including angle) is 648 mm.
 
 ![Stands Measures 1](images/v3_3-measure-stand-2.png)
+
+Build
+-----
+
+**TBD**
 
 Drawings & CAD
 --------------
