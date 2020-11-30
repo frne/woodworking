@@ -1,11 +1,11 @@
-Speaker Stand
-=============
+Speaker Stands
+==============
 
 **A speaker stand for my Bowers & Wilkins 606 Speakers**
 
 This repository contains plans for my recent "I want to build my own speaker stands" project. This is about woodworking 
-and has nothing to do with programming or IT. Also I'm a bloody amateur who has basically no idea of woodworking, so use 
-at your own risk ;)
+and has nothing to do with programming or IT. Also I'm NOT a professional carpenter, so provided information can be 
+unprecise or even completely wrong. Use at your own risk ;)
 
 ![Overview](images/v3_3-overview.png)
 
